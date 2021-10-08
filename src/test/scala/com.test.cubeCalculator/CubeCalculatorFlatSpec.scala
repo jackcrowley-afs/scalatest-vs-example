@@ -1,6 +1,6 @@
 import org.scalatest.flatspec.AnyFlatSpec
 
-class CubeCalculatorFlatSpecTest extends AnyFlatSpec {
+class CubeCalculatorFlatSpec extends AnyFlatSpec {
   
 
     behavior of "CubeCalculator"

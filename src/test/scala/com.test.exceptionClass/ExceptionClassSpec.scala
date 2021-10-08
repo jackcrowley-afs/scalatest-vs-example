@@ -2,7 +2,7 @@ import org.scalatest.flatspec.AnyFlatSpec
 
 import com.exceptionClass.ExceptionClass
 
-class ExceptionClassTest extends AnyFlatSpec {
+class ExceptionClassSpec extends AnyFlatSpec {
   
     behavior of "ExceptionClass"
 
